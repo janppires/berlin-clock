@@ -10,7 +10,7 @@ public class OptionsTest {
 
 	private Options instance;
 	
-	private String printUsage = "Usage: \n-h: invoke help \n-p clock position (e.g., \"horizonal\" or \"vertical\"\n-t clock working time in seconds";
+	private String printUsage = "Usage: \n-h: invoke help \n-p clock position (e.g., \"horizonal\" or \"vertical\")\n-t clock working time in seconds";
 
 	@Before
 	public void setUp(){

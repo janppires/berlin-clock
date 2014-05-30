@@ -102,7 +102,7 @@ public class Options
     public String getPrintUsageHelperMessage(){
     	StringBuilder sb = new StringBuilder();
     	sb.append("Usage: \n-h: invoke help ").append("\n");
-    	sb.append("-p clock position (e.g., \"horizonal\" or \"vertical\"").append("\n");
+    	sb.append("-p clock position (e.g., \"horizonal\" or \"vertical\")").append("\n");
     	sb.append("-t clock working time in seconds");
     	return sb.toString();
     }

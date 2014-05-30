@@ -3,11 +3,11 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>org.ink</groupId>
-  <artifactId>europeanclocks</artifactId>
+  <artifactId>berlin-clock</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   <packaging>jar</packaging>
 
-  <name>europeanclocks</name>
+  <name>berlin-clock</name>
   <url>http://maven.apache.org</url>
 
   <properties>
